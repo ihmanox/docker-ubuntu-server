@@ -46,6 +46,16 @@ sudo apt-get update
 
 ------------------------------------------------------------------------------------------
 
+5. Install Docker-Compose:
+
+# Instalar Docker Compose plugin (v2 moderno)
+  
+  sudo apt install -y docker-compose-plugin
+
+
+
+
+
 
 
 *Source:
